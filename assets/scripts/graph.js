@@ -1,17 +1,3 @@
-/*
- * 
- * David Lettier (C) 2014.
- * 
- * http://www.lettier.com/
- * 
- * Renders a graph via a HTML5 canvas object.
- * 
- */
-
-// Canvas primitives.
-
-// Canvas shadow object.
-
 function Shadow( parameters ) 
 {
 	

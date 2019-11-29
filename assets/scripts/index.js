@@ -1,14 +1,3 @@
-/*
- * 
- * David Lettier (C) 2014.
- * 
- * http://www.lettier.com/
- * 
- * Computes the shortest path from a user chosen source node to
- * a user chosen terminal node utilizing Dijkstra's algorithm.
- * 
- */
-
 function on_load( )
 {
 
